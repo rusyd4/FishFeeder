@@ -45,6 +45,15 @@ Pengujian dilakukan untuk memastikan semua fitur berfungsi dengan baik:
 
 Hasil evaluasi menunjukkan bahwa sistem memenuhi semua kriteria penerimaan dan memberikan performa yang andal.
 
+## Final Product
+
+![final](https://cdn.forback.me/u/QSZoOm.jpg)
+
+## Blynk Visual
+**Blynk Application Display:**
+
+![blynk](https://cdn.forback.me/u/ExJB3d.jpg)
+
 ## Conclusion and Future Work
 
 **Smart Fish Feeder** berhasil memberikan solusi praktis untuk perawatan akuarium, khususnya dalam pemberian pakan otomatis dan pemantauan kondisi lingkungan. Penggunaan teknologi IoT memastikan kemudahan dan efisiensi bagi pengguna.
