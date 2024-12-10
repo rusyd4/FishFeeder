@@ -35,6 +35,10 @@ Integrasi hardware dan software dilakukan melalui jaringan Wi-Fi menggunakan **p
 - Pemantauan kondisi akuarium secara real-time.
 - Kendali perangkat keras seperti servo motor dan indikator LED melalui aplikasi.
 
+### Flowchart
+
+![flowchart](https://i.imgur.com/J6L3W28.png)
+
 ## Test Results and Performance Evaluation
 
 Pengujian dilakukan untuk memastikan semua fitur berfungsi dengan baik:
